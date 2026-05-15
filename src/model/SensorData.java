@@ -1,7 +1,6 @@
 package model;
 
 import java.time.LocalDateTime;
-
 // DADO (Entidade)
 public class SensorData {
 
